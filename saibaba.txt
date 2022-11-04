@@ -1,1 +1,2 @@
-This is a kubenetes project just added`
+This is a kubenetes project just added
+repository to my repo`
